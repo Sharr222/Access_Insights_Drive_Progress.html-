@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Access Insights, Drive Progress</title>
+</head>
+<body>
+    <h1>Access Insights, Drive Progress</h1>
+    <p>
+        ACCESS INSIGHTS, <br>
+        DRIVE PROGRESS <br><br>
+        PR IC ING
+    </p>
+</body>
+</html>
+
